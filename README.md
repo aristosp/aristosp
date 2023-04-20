@@ -1,4 +1,4 @@
-Hi, I am Aristeidis Papadopoulos, currently an undergraduate student in Electronics & Computer Engineering (ECE) in Democritus University Of Thrace. My interest include,
+Hi, I am Aristeidis Papadopoulos a graduate from Electrical & Computer Engineering (ECE) Department from Democritus University Of Thrace. My interest include,
 but are not limited in the following:
 
 -> Machine Learning/Vision
