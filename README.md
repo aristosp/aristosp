@@ -1,4 +1,4 @@
-Hi, I am Aristeidis Papadopoulos, a graduate from Electrical & Computer Engineering (ECE) Department from Democritus University Of Thrace. My interest include,
+Hi, I am Aristeidis Papadopoulos, a graduate from the Electrical & Computer Engineering (ECE) Department from Democritus University Of Thrace. My interest include,
 but are not limited in the following:
 
 -> Computer Vision
@@ -8,4 +8,4 @@ but are not limited in the following:
 -> Machine Learning
 
 
-In my repository you can find the projects I have worked on, as parts of my courses in the university.
+In my repository you can find the projects I have worked on, during my university courses and during my free-time.
