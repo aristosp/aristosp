@@ -1,4 +1,4 @@
-Hi, I am Aristeidis Papadopoulos, an ambitious graduate from the Electrical & Computer Engineering (ECE) Department from Democritus University Of Thrace. My interest include,
+Hi, I am Aristeidis Papadopoulos, a PhD student at the Electronic & Electrical Engineering Dept. Of Trinity College Dublin. I am an ambitious graduate from the Electrical & Computer Engineering (ECE) Department from Democritus University Of Thrace. My interest include,
 but are not limited in the following:
 
 -> Artificial Intelligence (A.I.)
